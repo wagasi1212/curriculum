@@ -1,0 +1,22 @@
+.header {
+    background-color: red;
+    border: solid 1px black;
+}
+
+.main {
+
+    background-color: green;
+    border: solid 1px black;
+}
+
+.footer {
+
+    background-color: blue;
+    border: solid 1px black;
+}
+
+#wrapper {
+
+    width: 400px;
+    
+}
