@@ -1,0 +1,20 @@
+#wrapper{
+    width: 800px;
+}
+
+
+.header{
+    border: solid 1px #999;
+    background-color: yellow;
+}
+
+.main{
+    height: 500px;
+    border: solid 1px #999;
+    background-color: aqua;
+}
+
+.footer{
+    border: solid 1px #999;
+    background-color: palevioletred;
+}
