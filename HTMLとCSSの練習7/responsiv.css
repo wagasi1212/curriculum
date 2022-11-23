@@ -1,0 +1,33 @@
+
+/* window幅が767px以上の場合 PC*/
+@media  screen and (min-width: 767px) {
+    
+}
+
+/* ウィンドウ幅が最大767pxまでの場合 タブレット */
+@media screen and(max-width: 767px) {
+    
+}
+
+/* ウィンドウ幅が479pxまでの場合　スマホ */
+
+@media screen and(max-width: 479px) {
+    
+}
+
+.contents{
+    float:none;
+}
+
+img{
+    max-width: 100%;
+    height: auto;
+}
+
+.contents{
+    max-width: 1024px;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+
+}
